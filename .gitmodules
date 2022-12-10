@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "oncomsm"]
+	path = oncomsm
+	url = https://github.com/boehringer-ingelheim/oncomsm
+	shallow = true
+	registered = true
