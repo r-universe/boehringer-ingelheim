@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BPrinStratTTE"]
+	path = BPrinStratTTE
+	url = https://github.com/boehringer-ingelheim/bprinstrattte
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/boehringer-ingelheim/flowml
