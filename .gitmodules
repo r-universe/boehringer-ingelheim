@@ -5,6 +5,9 @@
 [submodule "BPrinStratTTE"]
 	path = BPrinStratTTE
 	url = https://github.com/boehringer-ingelheim/bprinstrattte
+[submodule "BayesianMCPMod"]
+	path = BayesianMCPMod
+	url = https://github.com/boehringer-ingelheim/bayesianmcpmod
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/boehringer-ingelheim/flowml
