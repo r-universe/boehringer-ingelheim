@@ -11,9 +11,6 @@
 [submodule "flowml"]
 	path = flowml
 	url = https://github.com/boehringer-ingelheim/flowml
-[submodule "oncomsm"]
-	path = oncomsm
-	url = https://github.com/boehringer-ingelheim/oncomsm
 [submodule "tipmap"]
 	path = tipmap
 	url = https://github.com/boehringer-ingelheim/tipmap
