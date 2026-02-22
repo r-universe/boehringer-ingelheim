@@ -8,6 +8,9 @@
 [submodule "BayesianMCPMod"]
 	path = BayesianMCPMod
 	url = https://github.com/boehringer-ingelheim/bayesianmcpmod
+[submodule "bhmbasket"]
+	path = bhmbasket
+	url = https://github.com/boehringer-ingelheim/bhmbasket
 [submodule "tipmap"]
 	path = tipmap
 	url = https://github.com/boehringer-ingelheim/tipmap
